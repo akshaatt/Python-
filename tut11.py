@@ -4,7 +4,6 @@
 #     i = i + 1
 
 j=0
-while(0>5
-.):
+while(0>5):
     print("hello", end=" "  )
     j=j+1
